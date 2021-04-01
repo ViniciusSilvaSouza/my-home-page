@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
-          <span> 🧑‍💻 Vinicius Souza </span>
+          <span> 👨‍💻 Vinicius Souza </span>
           <h1>Desenvolvedor <span>FullStack</span>.</h1>
           <p>Contatos: <br />
           </p>
