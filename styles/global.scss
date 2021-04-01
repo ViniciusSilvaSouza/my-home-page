@@ -8,6 +8,10 @@
     --white: #ffffff;
     --dark-gray: #121214;
     --cyan: #61dafb;
+    --gray-50: #e1e1e6;
+    --gray-300: #a8a8b3;
+    --gray-800: #29292e;
+    --gray-850: #1f2729;
 }
 
 @media (max-width: 1080px) {
@@ -29,7 +33,7 @@
 }
 
 body {
-    background: var(--dark-gray);
+    background: var(--gray-800);
     color: var(--white);
 }
 
