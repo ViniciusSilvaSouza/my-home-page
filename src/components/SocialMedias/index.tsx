@@ -3,7 +3,7 @@ import styles from './styles.module.scss'
 import useClipboard from "react-use-clipboard";
 
 export function SocialMediaComponent() {
-    const [isCopied, setCopied] = useClipboard("vinicius@vsouza.tech");
+    const [, setCopied] = useClipboard("vinicius@vsouza.tech");
 
     const handleClick = () => toast.success('E-mail copiado para área de transferência')
 

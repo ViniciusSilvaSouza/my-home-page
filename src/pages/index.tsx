@@ -3,9 +3,7 @@ import styles from './home.module.scss';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.min.css';
 import React from 'react';
-import { SocialMediaComponent } from './components/SocialMedias';
-
-
+import { SocialMediaComponent } from '../components/SocialMedias';
 
 export default function Home() {
   return (
