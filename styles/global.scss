@@ -25,12 +25,6 @@
         font-size: 87.5%;
     }
 }
-@media (max-width: 600px) {
-    html {
-        font-size: 85.5%;
-        flex-direction: column;
-    }
-}
 
 body {
     background: var(--gray-800);
