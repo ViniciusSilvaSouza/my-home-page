@@ -15,7 +15,7 @@ export default function Home() {
         <section className={styles.hero}>
           <span> 👨‍💻 Vinicius Souza </span>
           <h1>Desenvolvedor <span>FullStack</span>.</h1>
-          <p>Contatos: <br />
+          <p>Contatos:
           </p>
           <SocialMediaComponent />
         </section>
